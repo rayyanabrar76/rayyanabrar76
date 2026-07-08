@@ -30,9 +30,9 @@ I design and build complete web products — AI SaaS platforms, e-commerce store
 | Project | Description | Tech |
 |---|---|---|
 | [**Advanced Power Solutions**](https://aps.com.pk/) | Full e-commerce platform for an industrial engineering firm — custom DB, admin panel, cart & quote system | Next.js, Tailwind, E-Commerce |
+| [**LinkedIn Bulk Opener**](https://profileopener.netlify.app/) | AI tool for recruiters — opens 100+ LinkedIn profiles/min, auto-detects CEOs, exports leads. 10,000+ active users | HTML/JS, AI |
 | [**Chef Aboud Küche**](https://chefaboud.vercel.app/en) | Multilingual (EN/DE/AR) hospitality site for a Berlin-based chef with polished editorial motion design | Next.js, i18n, Framer |
 | [**Zafran**](https://zafrann.netlify.app/) | Luxury Persian restaurant site with multilingual support and catering booking | Next.js, i18n, Tailwind |
-| [**LinkedIn Bulk Opener**](https://profileopener.netlify.app/) | AI tool for recruiters — opens 100+ LinkedIn profiles/min, auto-detects CEOs, exports leads. 10,000+ active users | HTML/JS, AI |
 
 ---
 
