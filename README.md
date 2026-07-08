@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Rayyan Abrar</h1>
-<h3 align="left">Full Stack Developer · Lahore, Pakistan</h3>
+<h3 align="left">Full Stack Engineer · Lahore, Pakistan</h3>
 
-I design and build complete web products — SaaS platforms, e-commerce stores, and tools that are fast, polished, and production-ready. Available for freelance work and full-time opportunities.
+I design and build complete web products — AI SaaS platforms, e-commerce stores, and Automation tools that are fast, polished, and production-ready. Available for freelance work and full-time opportunities.
 
 - 🔭 Currently working on: **StorePanel** — a no-code SaaS admin panel connected to a live PostgreSQL database
 - 🌐 Portfolio: **[rayyan-abrar.netlify.app](https://rayyan-abrar.netlify.app/)**
