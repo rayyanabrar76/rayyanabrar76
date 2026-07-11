@@ -26,7 +26,7 @@ I design and build complete web products — AI SaaS platforms, e-commerce store
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.upwork.com/freelancers/rayyanabrar76))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)(https://www.upwork.com/freelancers/rayyanabrar76)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyanabrar76/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rayyanabrar76@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923234267068)
