@@ -32,7 +32,3 @@ I design and build complete web products — AI SaaS platforms, e-commerce store
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923234267068)
 
 ---
-
-### 📊 GitHub Stats
-
-![Rayyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayyanabrar76&show_icons=true&theme=dark)
