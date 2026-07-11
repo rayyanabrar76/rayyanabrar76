@@ -4,7 +4,6 @@
 I design and build complete web products — AI SaaS platforms, e-commerce stores, and Automation tools that are fast, polished, and production-ready. Available for freelance work and full-time opportunities.
 
 - 🔭 Currently working on: **StorePanel** — a no-code SaaS admin panel connected to a live PostgreSQL database
-- 🌐 Portfolio: **[rayyan-abrar.netlify.app](https://rayyan-abrar.netlify.app/)**
 - 💬 Ask me about: **Next.js, React, Node.js, PostgreSQL, SaaS architecture**
 - 📫 Email: **rayyanabrar76@gmail.com**
 - 💬 WhatsApp: **[+92 323 426 7068](https://wa.me/923234267068)**
@@ -22,16 +21,6 @@ I design and build complete web products — AI SaaS platforms, e-commerce store
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**Advanced Power Solutions**](https://aps.com.pk/) | Full e-commerce platform for an industrial engineering firm — custom DB, admin panel, cart & quote system | Next.js, Tailwind, E-Commerce |
-| [**LinkedIn Bulk Opener**](https://profileopener.netlify.app/) | AI tool for recruiters — opens 100+ LinkedIn profiles/min, auto-detects CEOs, exports leads. 10,000+ active users | React, TypeScript, Vite |
-| [**Chef Aboud Küche**](https://chefaboud.vercel.app/en) | Multilingual (EN/DE/AR) hospitality site for a Berlin-based chef with polished editorial motion design | Next.js, i18n, Framer |
 
 ---
 
