@@ -4,7 +4,7 @@
 I design and build complete web products — AI SaaS platforms, e-commerce stores, and Automation tools that are fast, polished, and production-ready. Available for freelance work and full-time opportunities.
 
 - 🔭 Currently working on: **StorePanel** — a no-code SaaS admin panel connected to a live PostgreSQL database
-- 💬 Ask me about: **Next.js, React, Node.js, PostgreSQL, SaaS architecture**
+- 💬 Ask me about: **Next.js, React, Node.js, SaaS architecture**
 - 📫 Email: **rayyanabrar76@gmail.com**
 - 💬 WhatsApp: **[+92 323 426 7068](https://wa.me/923234267068)**
 - 📅 Book a call: **[Schedule 30 min](https://calendly.com/rayyanabrar76/30min)**
