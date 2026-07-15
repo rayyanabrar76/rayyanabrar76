@@ -1,19 +1,18 @@
 <h1 align="left">Hi 👋, I'm Rayyan Abrar</h1>
 <h3 align="left">Full Stack Engineer · Lahore, Pakistan</h3>
 
-I design and build complete web products — AI SaaS platforms, e-commerce stores, and Automation tools that are fast, polished, and production-ready. Available for freelance work and full-time opportunities.
+I design and build complete web products — AI SaaS platforms, e-commerce stores, and automation tools that are fast, polished, and production-ready. Available for freelance work and full-time opportunities.
 
-- 🔭 Currently working on: **StorePanel** — a no-code SaaS admin panel connected to a live PostgreSQL database
-- 💬 Ask me about: **Next.js, React, Node.js, SaaS architecture**
-- 📫 Email: **rayyanabrar76@gmail.com**
-- 💬 WhatsApp: **[+92 323 426 7068](https://wa.me/923234267068)**
-- 📅 Book a call: **[Schedule 30 min](https://calendly.com/rayyanabrar76/30min)**
+- 🔭 **Currently working on:** StorePanel — a no-code SaaS admin panel connected to a live PostgreSQL database
+- 🧠 **Ask me about:** Next.js, React, TypeScript, Node.js, PostgreSQL, SaaS architecture, AI-powered automation
+- 📫 **Email:** rayyanabrar76@gmail.com
+- 💬 **WhatsApp:** [+92 323 426 7068](https://wa.me/923234267068)
+- 📅 **Book a call:** [Schedule 30 min](https://calendly.com/rayyanabrar76/30min)
 - ⚡ Building stuff. Learning stuff.
 
 ---
 
 ### 🛠️ Tech Stack
-
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -25,10 +24,6 @@ I design and build complete web products — AI SaaS platforms, e-commerce store
 ---
 
 ### 📫 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.upwork.com/freelancers/rayyanabrar76)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyanabrar76/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rayyanabrar76@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923234267068)
-
----
