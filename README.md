@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Rayyan Abrar</h1>
 <h3 align="left">Full Stack Engineer (Web & Mobile) · Lahore, Pakistan</h3>
 
-I design and build complete digital products — AI SaaS platforms, e-commerce stores, mobile apps, and automation tools that are fast, polished, and production-ready. Available for freelance work and full-time opportunities.
+I design and build complete digital products - AI SaaS platforms, e-commerce stores, mobile apps, and automation tools that are fast, polished, and production-ready. Available for freelance work and full-time opportunities.
 
-- 🔭 **Currently working on:** StorePanel — a no-code SaaS admin panel connected to a live PostgreSQL database
+- 🔭 **Currently working on:** StorePanel - a no-code SaaS admin panel connected to a live PostgreSQL database
 - 🧠 **Ask me about:** Next.js, React, React Native, TypeScript, Node.js, PostgreSQL, SaaS architecture, AI-powered automation
 - 📫 **Email:** rayyanabrar76@gmail.com
 - 💬 **WhatsApp:** [+92 323 426 7068](https://wa.me/923234267068)
